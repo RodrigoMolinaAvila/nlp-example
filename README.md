@@ -1,4 +1,4 @@
-# BERTopic Educativo: Think Tanks Chilenos
+# BERTopic: Think Tanks Chilenos durante las crisis
 
 Material docente del curso **Modelado de tópicos con BERTopic: discurso experto de think tanks chilenos (2019–2024)**, Diploma de Postítulo en Inteligencia Artificial, Facultad de Ciencias Físicas y Matemáticas, Universidad de Chile.
 
@@ -32,6 +32,3 @@ Material docente del curso **Modelado de tópicos con BERTopic: discurso experto
 
 4. El notebook ajusta dos modelos (base y corregido). La ejecución completa, incluyendo Optuna y el pipeline NLI, puede tardar entre 10 y 20 minutos en CPU. Las figuras usan Plotly y el explorador usa `ipywidgets`.
 
-## Nota
-
-El corpus debe estar en el mismo directorio que el notebook. No se incluyen imágenes estáticas: todas las figuras se computan al ejecutar las celdas. Si usas Google Colab, sube el `.parquet` y el notebook.
